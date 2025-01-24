@@ -1,4 +1,10 @@
-# SkillChains
+# SkillChains for Horizon XI Private Server
+
+### What's new compared to the original version?
+This version of SkillChains has been modified to work with Horizon XI private server. The skills.lua file has been modified by DivoXI based on the skills.lua file found in https://github.com/NerfOnline/Chains-HorizonUpdated/releases/tag/v0.81 that's designed to Ashita v4.
+
+Special thanks to NerfOnline, Hugin and all the contributors that made it possible to have a custom SkillChains for the Horizon XI private server. And special thanks to Ivaar the original author of this Windower addon https://github.com/Ivaar/Skillchains from which this project was forked.
+
 ### Active Battle Skillchain Display.
 
 Displays a text object containing skillchain elements resonating on current target, timer for skillchain window,
